@@ -1,0 +1,22 @@
+@media screen {
+
+    header {
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#cedce7+0,596a72+100;Grey+3D+%231 */
+        background: #cedce7; /* Old browsers */
+        background: -moz-linear-gradient(-45deg, #cedce7 0%, #596a72 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(-45deg, #cedce7 0%,#596a72 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(135deg, #cedce7 0%,#596a72 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', endColorstr='#596a72',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    }
+    h1 {color:red; font-family: 'Courier New', Courier, monospace; font-size: 2em}
+    h2 {color: green; font-style: italic; font-size: 1.5em}
+    header h2 { color: black;}
+    h2 span {color: black;}
+    body{background-color: rgb(206, 226, 165)}
+    p {color: rgb(55, 55, 109); font-size: 19px;}
+    footer{font-weight: bold;}
+    li{font-variant: small-caps; font-size: 3em;}
+    p.two{font: bold 15px Arial, sans-serif;}
+
+
+}
